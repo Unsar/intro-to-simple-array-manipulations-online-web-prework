@@ -12,8 +12,6 @@ end
 def using_pop(great_hits_of_the_nineties)
    great_hits_of_the_nineties = ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life", "Losing My Religion"]
  end
- 
- def pop(great_hits_of_the_nineties)
    great_hits_of_the_nineties.size 
  end
  
