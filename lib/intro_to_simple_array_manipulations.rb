@@ -15,7 +15,7 @@ def using_pop(great_hits_of_the_nineties)
  end
 
 def pop1(great_hits_of_the_nineties)
-puts great_hits_of_the_nineties.size
+pop1=great_hits_of_the_nineties.size
 end
 
 def pop_with_args(chars_in_game_of_thrones)
