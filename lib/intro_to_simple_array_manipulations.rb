@@ -17,6 +17,8 @@ def using_pop(great_hits_of_the_nineties)
 def pop1(great_hits_of_the_nineties)
 pop1=great_hits_of_the_nineties.size
 end
+pop1
+end
 
 def pop_with_args(chars_in_game_of_thrones)
   chars_in_game_of_thrones = ["Danny T.", "Tyrion Lannister", "Stable Boy", "Sandor Clegane"]
