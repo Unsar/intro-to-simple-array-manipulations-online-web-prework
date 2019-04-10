@@ -18,7 +18,6 @@ def pop_with_args(chars_in_game_of_thrones)
  end
  
 def using_shift(my_favorite_cities)
-  my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
     my_favorite_cities.shift
   end
     
@@ -28,7 +27,5 @@ def shift_with_args(ice_cream_brands)
   end
     
 def using_concat(my_favorite_things, more_favs)
-    my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
-    more_favs = ["mario kart", "flatiron school"]
     my_favorite_things.concat(more_favs)
   end
