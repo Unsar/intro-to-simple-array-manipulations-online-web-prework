@@ -42,4 +42,5 @@ def using_concat(my_favorite_things, more_favs)
    private_colleges_in_newyork.flatten 
  end
  
- 
+ def using_delete(instructors)
+   instructors
