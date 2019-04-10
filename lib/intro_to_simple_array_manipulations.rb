@@ -22,9 +22,5 @@ def pop_with_args(chars_in_game_of_thrones)
    chars_in_game_of_thrones.pop(2)
  end
  
- def using_concat(
-   my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
-    more_favs = ["mario kart", "flatiron school"]
-  end
-end
+
     
