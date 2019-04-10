@@ -42,6 +42,6 @@ def using_concat(my_favorite_things, more_favs)
    private_colleges_in_newyork.flatten 
  end
  
- def using_delete(instructors)
-   instructors.delete("Steven")
+ def using_delete(instructors, no_offense_steven)
+   no_offense_steven = instructors.delete("Steven")
  end
