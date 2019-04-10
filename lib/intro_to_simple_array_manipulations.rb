@@ -46,4 +46,5 @@ def using_concat(my_favorite_things, more_favs)
    no_offense_steven = instructors.delete("Steven")
  end
  
- def using_delete_at(famous_robots,)
+ def using_delete_at(famous_robots,deleted_robot)
+   deleted_robot = famous_robots.delete
