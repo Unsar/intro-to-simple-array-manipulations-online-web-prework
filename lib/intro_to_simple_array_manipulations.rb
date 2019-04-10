@@ -34,4 +34,4 @@ def using_concat(my_favorite_things, more_favs)
    list_of_esoteric_programming_languages.insert(4,another_esoteric_language)
  end
  
- 
+ def using_uniq()
